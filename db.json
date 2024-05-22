@@ -1,0 +1,40 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jose",
+      "apellido": "Jose",
+      "cursos": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "JS desde Cero"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": "8.2"
+    },
+    {
+      "nombre": "Pablo",
+      "apellido": "Perez",
+      "promedio": "8.1"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node",
+      "duracion": "7",
+      "dificultad": "intemredia"
+    },
+    {
+      "nombre": "JS",
+      "duracion": "2",
+      "dificultad": "alta"
+    }
+  ]
+}
